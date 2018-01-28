@@ -76,3 +76,5 @@ div[class*="tab-content-"] {
 	clear: both;
 }
 ```
+## Example usage with 2 tabmenus (and very lazy CSS ;)
+![2 tabmenus](example.png)
